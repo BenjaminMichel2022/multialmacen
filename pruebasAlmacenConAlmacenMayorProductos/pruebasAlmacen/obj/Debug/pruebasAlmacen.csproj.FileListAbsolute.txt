@@ -6,3 +6,11 @@ C:\Users\sistemas14\Documents\Visual Studio 2022\pruebasAlmacen\pruebasAlmacen\o
 C:\Users\sistemas14\Documents\Visual Studio 2022\pruebasAlmacen\pruebasAlmacen\obj\Debug\pruebasAlmacen.csproj.CoreCompileInputs.cache
 C:\Users\sistemas14\Documents\Visual Studio 2022\pruebasAlmacen\pruebasAlmacen\obj\Debug\pruebasAlmacen.exe
 C:\Users\sistemas14\Documents\Visual Studio 2022\pruebasAlmacen\pruebasAlmacen\obj\Debug\pruebasAlmacen.pdb
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\bin\Debug\pruebasAlmacen.exe.config
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\bin\Debug\pruebasAlmacen.exe
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\bin\Debug\pruebasAlmacen.pdb
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\obj\Debug\pruebasAlmacen.csproj.AssemblyReference.cache
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\obj\Debug\pruebasAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\obj\Debug\pruebasAlmacen.csproj.CoreCompileInputs.cache
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\obj\Debug\pruebasAlmacen.exe
+C:\avance\multialmacen\pruebasAlmacenConAlmacenMayorProductos\pruebasAlmacen\obj\Debug\pruebasAlmacen.pdb
